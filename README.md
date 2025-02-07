@@ -1,3 +1,3 @@
 # PariSat Live Tracking
-Original code : https://github.com/AstroNolan/PariSat-Tracking  
-Online tracking : https://parisat-tracking.github.io/
+Original code : https://github.com/AstroNolan/PariSat-App  
+Online app : https://parisat-app.github.io/
